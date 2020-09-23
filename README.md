@@ -12,6 +12,6 @@
 
   <h2>Bref History of ubuntu</h2>
    <p>
-  is a Linux distribution based on Debian mostly composed of free and open-source software.[8][9][10] Ubuntu is officially released in three editions: Desktop,[11] Server,[12] and Core[13] for Internet of things devices[14] and robots.[15][16] All the editions can run on the computer alone, or in a virtual machine.[17] Ubuntu is a popular operating system for cloud computing, with support for OpenStack.[18] Ubuntu's default desktop, as of version 17.10, is GNOME.
+  is a Linux distribution based on Debian mostly composed of free and open-source software. Ubuntu is officially released in three editions: Desktop, Server, and Core for Internet of things devices[14] and robots. All the editions can run on the computer alone, or in a virtual machine. Ubuntu is a popular operating system for cloud computing, with support for OpenStack. Ubuntu's default desktop, as of version 17.10, is GNOME.
   </p>
 
