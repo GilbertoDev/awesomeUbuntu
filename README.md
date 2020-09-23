@@ -4,7 +4,7 @@
 
 **Learn Ubuntu from zero - understand how ubuntu really work**
 
-A curated list of awesome PHP5, tutorials, courses, blogs, hacking ,news, forums and resources
+A curated list of awesome Ubuntu, tutorials, courses, blogs, hacking ,news, forums and resources
 
 
 
